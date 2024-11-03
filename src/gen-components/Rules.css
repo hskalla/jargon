@@ -5,7 +5,7 @@ label {
 
 textarea {
     width: 100%;
-    height: 90%;
+    height: 100%;
     padding: 3px 3px;
     box-sizing: border-box;
     border: 1px solid #000;
@@ -19,5 +19,20 @@ textarea {
 
 .rules-box {
     width:auto;
-    height: 100%;
+    height:85%;
+    min-height:40%
+}
+
+.buttons {
+    width:100%;
+    margin:0px;
+    -webkit-columns:3;
+    -moz-columns:3;
+    columns:3;
+    column-gap:5px;
+    gap:5px;
+}
+
+.buttons Button {
+    width:100%;
 }
