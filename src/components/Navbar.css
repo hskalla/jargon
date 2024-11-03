@@ -1,0 +1,22 @@
+ol{
+    list-style-type: none;
+    background-color: #A846A0;
+    color: #fff;
+    overflow: hidden;
+    margin: 0;
+    border: 0;
+}
+li{
+    float: right;
+    display: inline-block;
+    padding: 15px;
+}
+a {
+    color:#fff;
+    font-weight:bold;
+    text-decoration: none;
+}
+.navigation-menu{
+
+    width: 100%;
+}
